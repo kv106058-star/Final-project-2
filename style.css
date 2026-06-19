@@ -541,7 +541,7 @@ footer li{
 }
 
 .article-hero{
-    height:70vh;
+    height:150vh;
     background:
     linear-gradient(
         rgba(15,23,42,.55),
@@ -554,7 +554,7 @@ footer li{
 
     display:flex;
     align-items:flex-end;
-    padding:80px;
+    padding:100px;
 }
 
 .article-overlay{
